@@ -1,0 +1,10 @@
+*.swo
+*.swp
+
+.envrc
+.direnv/
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
